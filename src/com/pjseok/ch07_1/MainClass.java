@@ -35,6 +35,8 @@ public class MainClass {
 		student.printName();
 		solider.printName();
 		
+		People people1 = new Student("강감찬", "881231-1111111");
+		People people2 = new Solider("권율", "991231-2222222");
 		
 		
 	}
